@@ -1,4 +1,4 @@
-# 🌟 Dobro.City Project 🏙️
+# 🌟 DoBro.City Project 🏙️
 
 Welcome to the official GitHub repository of the **DoBro.City** project!
 
